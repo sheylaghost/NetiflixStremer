@@ -46,7 +46,7 @@ Português:
 
 Faça o clone do repositório:
 
-git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+git clone https://github.com/sheylaghost-NetiflixStremer.git
 
 Acesse a pasta do projeto:
 
@@ -58,7 +58,7 @@ English:
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/sheylaghost-NetiflixStremer.git
 
 Navigate to the project folder:
 
@@ -93,3 +93,4 @@ Add a simulated player when clicking on a title
 Implement a search bar
 
 Use a public API (like TMDB) to load real movies
+
