@@ -1,2 +1,0 @@
-# NetiflixStremer
-Catalogo da Netflix
